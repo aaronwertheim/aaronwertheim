@@ -16,6 +16,8 @@ I am a fullstack developer with an emphasis in React and Ruby on Rails. I enjoy 
 
 **<a href="https://workout-project-p4.herokuapp.com/">Workout Tracker</a>** - Take your workout to the next level with our exercise api! Research entire routines, as well as individual exercises and schedule your workout in advance.
 
+**<a href="https://episode-2-app.herokuapp.com/">Episode II</a>** - Register for free today to write your own movie reviews! Explore our database and create a personalized watchlist! Dont forget to show your support, and leave a like for other reviews from members of the Episode II community.
+
 **<a href="https://thirst-app.herokuapp.com/">Thirst App</a>** - Not sure what to drink? Look no further! Search for a beverage by any keyword, or leave it up to chance and allow the CocktailDB api generate a random one for you.
 
 ### 📫 How to reach me:
